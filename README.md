@@ -1,6 +1,9 @@
 nested-listview
 ----
 
+## Credit
+Android Open Source Project  
+https://source.android.com/source/licenses.html
 
 ```
 Copyright (C) 2015 takahirom
