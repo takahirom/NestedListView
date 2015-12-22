@@ -1,5 +1,6 @@
 nested-listview
 ----
+This is ListView that can scrolling bevior with CoordinatorLayout.
 
 ## Credit
 Android Open Source Project  
